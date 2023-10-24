@@ -1,0 +1,141 @@
+,#,Country,Happiness Index,Continent
+0,1,Finland,7.82,Europe
+1,2,Denmark,7.64,Europe
+2,3,Iceland,7.56,Europe
+3,4,Switzerland,7.51,Europe
+4,5,Netherlands,7.42,Europe
+5,6,Luxembourg,7.4,Europe
+6,7,Sweden,7.38,Europe
+7,8,Norway,7.37,Europe
+8,9,Israel,7.36,Asia
+9,10,New Zealand,7.2,Oceania
+10,11,Australia,7.16,Oceania
+11,12,Austria,7.16,Europe
+12,14,Canada,7.03,North America
+13,15,Germany,7.03,Europe
+14,16,United States of America,6.98,North America
+15,17,United Kingdom,6.94,Europe
+16,18,Czech Republic,6.92,Europe
+17,19,Belgium,6.81,Europe
+18,20,France,6.69,Europe
+19,21,Bahrain,6.65,Asia
+20,22,Slovenia,6.63,Europe
+21,23,Costa Rica,6.58,North America
+22,24,United Arab Emirates,6.58,Asia
+23,25,Saudi Arabia,6.52,Asia
+24,26,Taiwan,6.51,Asia
+25,27,Romania,6.48,Europe
+26,28,Singapore,6.48,Asia
+27,29,Spain,6.48,Europe
+28,30,Italy,6.47,Europe
+29,31,Uruguay,6.47,South America
+30,32,Kosovo,6.46,Europe
+31,33,Lithuania,6.45,Europe
+32,34,Malta,6.45,Europe
+33,35,Slovakia,6.39,Europe
+34,36,Estonia,6.34,Europe
+35,37,Panama,6.31,North America
+36,38,Brazil,6.29,South America
+37,39,Guatemala,6.26,North America
+38,40,Kazakhstan,6.23,Asia
+39,41,Cyprus,6.22,Europe
+40,42,Latvia,6.18,Europe
+41,43,Serbia,6.18,Europe
+42,44,Chile,6.17,South America
+43,45,Nicaragua,6.17,North America
+44,46,Croatia,6.13,Europe
+45,47,Mexico,6.13,North America
+46,48,El Salvador,6.12,North America
+47,49,Poland,6.12,Europe
+48,50,Kuwait,6.11,Asia
+49,51,Hungary,6.09,Europe
+50,52,Mauritius,6.07,Africa
+51,53,Uzbekistan,6.06,Asia
+52,54,Japan,6.04,Asia
+53,55,Honduras,6.02,North America
+54,56,Portugal,6.02,Europe
+55,57,Argentina,5.97,South America
+56,58,Greece,5.95,Europe
+57,59,South Korea,5.94,Asia
+58,60,Philippines,5.9,Asia
+59,61,Thailand,5.89,Asia
+60,62,Moldova,5.86,Europe
+61,63,Jamaica,5.85,North America
+62,64,Kyrgyzstan,5.83,Asia
+63,65,Belarus,5.82,Europe
+64,66,Colombia,5.78,South America
+65,67,Bosnia and Herzegovina,5.77,Europe
+66,68,Mongolia,5.76,Asia
+67,69,Dominican Republic,5.74,North America
+68,70,Malaysia,5.71,Asia
+69,71,Bolivia,5.6,South America
+70,73,Paraguay,5.58,South America
+71,74,Peru,5.56,South America
+72,75,Montenegro,5.55,Europe
+73,76,Ecuador,5.53,South America
+74,77,Vietnam,5.49,Asia
+75,78,Turkmenistan,5.47,Asia
+76,79,Russia,5.46,Asia
+77,79,Russia,5.46,Europe
+78,81,Armenia,5.4,Asia
+79,82,Nepal,5.38,Asia
+80,83,Tajikistan,5.38,Asia
+81,84,Bulgaria,5.37,Europe
+82,85,Libya,5.33,Africa
+83,86,Indonesia,5.24,Asia
+84,88,Albania,5.2,Europe
+85,89,South Africa,5.19,Africa
+86,90,Azerbaijan,5.17,Asia
+87,91,Bangladesh,5.16,Asia
+88,92,The Gambia,5.16,Africa
+89,93,Laos,5.14,Asia
+90,94,Algeria,5.12,Africa
+91,95,Liberia,5.12,Africa
+92,96,Ukraine,5.08,Europe
+93,97,Morocco,5.06,Africa
+94,98,Cameroon,5.05,Africa
+95,99,Mozambique,5.05,Africa
+96,100,Senegal,5.05,Africa
+97,101,Niger,5.0,Africa
+98,102,Georgia,4.97,Asia
+99,102,Georgia,4.97,Europe
+100,103,Gabon,4.96,Africa
+101,104,Iraq,4.94,Asia
+102,105,Venezuela,4.93,South America
+103,106,Guinea,4.89,Africa
+104,107,Iran,4.89,Asia
+105,108,Ghana,4.87,Africa
+106,109,Turkey,4.74,Asia
+107,109,Turkey,4.74,Europe
+108,110,Burkina Faso,4.67,Africa
+109,111,Cambodia,4.64,Asia
+110,112,Benin,4.62,Africa
+111,113,Comoros,4.61,Africa
+112,114,Uganda,4.6,Africa
+113,115,Nigeria,4.55,Africa
+114,116,Kenya,4.54,Africa
+115,117,Pakistan,4.52,Asia
+116,118,Tunisia,4.52,Africa
+117,119,Mali,4.48,Africa
+118,120,Namibia,4.46,Africa
+119,122,Myanmar,4.39,Asia
+120,123,Sri Lanka,4.36,Asia
+121,124,Madagascar,4.34,Africa
+122,125,Egypt,4.29,Africa
+123,126,Chad,4.25,Africa
+124,127,Ethiopia,4.24,Africa
+125,128,Yemen,4.2,Asia
+126,129,Jordan,4.15,Asia
+127,130,Mauritania,4.15,Africa
+128,131,Togo,4.11,Africa
+129,132,India,3.78,Asia
+130,133,Zambia,3.76,Africa
+131,134,Malawi,3.75,Africa
+132,135,Tanzania,3.7,Africa
+133,136,Sierra Leone,3.57,Africa
+134,137,Lesotho,3.51,Africa
+135,138,Botswana,3.47,Africa
+136,139,Rwanda,3.27,Africa
+137,140,Zimbabwe,3.0,Africa
+138,141,Lebanon,2.96,Asia
+139,142,Afghanistan,2.4,Asia
